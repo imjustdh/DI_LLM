@@ -155,4 +155,4 @@ CPU 환경에서 기본적인 검색 시스템을 검증하고,
 ## 8. 원본 자료
 
 - [RAG 실험 노트북](company_guide_rag_experiment.ipynb)
-- [RAG 구축 및 서버 운영 테스트 보고서](RAG_구축_3차보고서.pdf)
+- [RAG 구축 및 서버 운영 테스트 보고서](오픈소스LLM_RAG 실험 보고서_260818.pdf)
