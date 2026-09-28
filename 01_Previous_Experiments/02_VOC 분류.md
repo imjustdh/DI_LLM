@@ -159,4 +159,3 @@
 
 - [1차 기능 구현 코드](voc_prototype.ipynb)
 - [2차 Streamlit 웹앱 코드](voc_streamlit.py)
-
